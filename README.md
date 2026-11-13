@@ -1,4 +1,4 @@
-### Cześć! 👋 Jestem [Twoje Imię / Nick]
+### Cześć! 👋 Jestem Sławek
 
 <p align="left">
   <em>Informatyk z zacięciem inżynieryjnym, w trakcie technika elektroniki i informatyki medycznej. Łączę technologię, automatyzację i nowoczesne AI, żeby rozwiązywać rzeczywiste problemy, zamiast pisać kod do szuflady.</em>
