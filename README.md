@@ -33,6 +33,6 @@ Nie traktuję sztucznej inteligencji jak magicznej różdżki, ale jak zaawansow
 
 ### 📊 Statystyki GitHub
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TWÓJ_LOGIN_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_LOGIN_GITHUB&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s-reinmar&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-reinmar&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
 </p>
